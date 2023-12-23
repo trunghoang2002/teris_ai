@@ -4,7 +4,7 @@ A graphical interface for Tetris that contains an AI and a genetic tuner for the
 ## AI Docs
 https://codemyroad.wordpress.com/2013/04/14/tetris-ai-the-near-perfect-player/
 ## Live Webpage
-The live webpage containing the graphical interface can be found [here](http://leeyiyuan.github.io/tetrisai).
+The live webpage containing the graphical interface can be found [here](https://trunghoang2002.github.io/teris_ai/).
 
 ## Tuning
 To tune, open up the Developer Console in the web browser and run the command `new Tuner().tune();`.
